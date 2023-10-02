@@ -2,7 +2,6 @@ uvicorn
 fastapi
 starlette
 uvicorn
-fastapi-multipart
 tensorflow
 Pillow
 numpy
